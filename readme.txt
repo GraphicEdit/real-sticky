@@ -1,7 +1,7 @@
 === Real Sticky ===
 
 Contributors: graphicedit
-Donate link: http://www.graphicedit.com/
+Donate link: http://graphicedit.com/
 Tags: quick, easy, simple, free, real, sticky, page, title
 Requires at least: 3.0
 Tested up to: 3.0
@@ -14,7 +14,7 @@ Import a Sticky page to top of site.
 This is a plugin which enables you to show a specific page or a post you choose at the top of your website. 
 It enables you to present the page/post always above, even inside the post or categorie(s) page(s) 
 
-Links: [Author Homepage](http://www.graphicedit.com/)
+Links: [Author Homepage](http://graphicedit.com/)
 
 == Installation ==
 

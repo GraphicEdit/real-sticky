@@ -5,7 +5,7 @@ Plugin URI: http://graphicedit.com/blog/plugin/real-sticky/
 Description: This plugin adds custom Real Sticky Post.
 Version: 1.2.2
 Author: GraphicEdit
-Author URI: http://www.graphicedit.com/
+Author URI: http://graphicedit.com/
 
 	Copyright 2011  GraphicEdit  (email : contact@graphicedit.com)
 
